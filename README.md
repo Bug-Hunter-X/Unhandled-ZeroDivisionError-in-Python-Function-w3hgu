@@ -1,0 +1,2 @@
+# Unhandled ZeroDivisionError in Python Function
+This repository demonstrates an uncommon error in Python function handling. The `function_with_uncommon_error` does not explicitly handle the case where both inputs `a` and `b` are zero, leading to a `ZeroDivisionError`. The solution provides an improved version that addresses this scenario using appropriate error handling techniques.
